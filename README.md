@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou a Fernanda Nogueira
 
-Sou desenvolvedora apaixonada por transformar ideias em interfaces bonitas e funcionais. 💻  
+Sou desenvolvedora web apaixonada por transformar ideias em interfaces bonitas e funcionais. 💻  
 Tenho foco em **HTML**, **CSS** e **JavaScript**, e estou sempre buscando aprender mais sobre o mundo da programação e da tecnologia.
 
 ---
